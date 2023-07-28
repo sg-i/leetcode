@@ -19,5 +19,3 @@ var lengthOfLastWord = function (s) {
   }
   return count;
 };
-
-console.log(lengthOfLastWord('a '));
